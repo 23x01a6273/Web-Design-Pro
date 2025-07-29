@@ -80,17 +80,5 @@ Replace the placeholder images with your own by updating the `src` attributes in
 5. **Accessibility**: Proper contrast ratios, semantic markup, and ARIA attributes where needed
 6. **Clean Code**: Well-organized, commented, and maintainable code
 
-## Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Opera (latest)
-
 ## License
 Feel free to use this template for personal or commercial projects.
-
-## Credits
-- Font Awesome for icons
-- Google Fonts for typography
-- Placeholder images from [placeholder.com](https://placeholder.com/)
